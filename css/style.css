@@ -95,6 +95,7 @@ hr {
     height: 1px;
     background: #f36f48;
 }
+/*
 form {
     text-align: center;
     margin-top: 0;
@@ -126,7 +127,7 @@ input, textarea {
     border-radius: 5px;
     width: 70%;
     outline: none;
-}
+} */
 .face {
     transform: scale(0.4);
     margin: 0 auto;
